@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#fff000",
+    "navigationBarTitleText": "小程序开发测试",
+    "navigationBarTextStyle":"black"
+  }
+}
